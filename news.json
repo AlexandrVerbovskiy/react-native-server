@@ -1,42 +1,52 @@
 {
     "data": [
         {
+            "id":1,
             "title": "Новина 1",
             "description": "Опис новини 1",
             "image": "images/img_1.png"
         },{
+                        "id":2,
             "title": "Новина 2",
             "description": "Опис новини 2",
             "image": "images/img_2.png"
         },{
+                        "id":3,
             "title": "Новина 3",
             "description": "Опис новини 3",
             "image": "images/img_3.png"
         },{
+                        "id":4,
             "title": "Новина 4",
             "description": "Опис новини 4",
             "image": "images/img_4.png"
         },{
+                        "id":5,
             "title": "Новина 5",
             "description": "Опис новини 5",
             "image": "images/img_1.png"
         },{
+                        "id":6,
             "title": "Новина 6",
             "description": "Опис новини 6",
             "image": "images/img_2.png"
         },{
+                        "id":7,
             "title": "Новина 7",
             "description": "Опис новини 7",
             "image": "images/img_3.png"
         },{
+                        "id":8,
             "title": "Новина 8",
             "description": "Опис новини 8",
             "image": "images/img_4.png"
         },{
+                        "id":9,
             "title": "Новина 9",
             "description": "Опис новини 9",
             "image": "images/img_1.png"
         },{
+                        "id":10,
             "title": "Новина 10",
             "description": "Опис новини 10",
             "image": "images/img_1.png"
